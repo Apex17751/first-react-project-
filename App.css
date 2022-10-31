@@ -1,0 +1,155 @@
+*{
+  text-align: center;
+}
+.App-logo{
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+ 
+}
+.App-header{
+  padding-left: 30px;
+}
+.control{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.icon-two{
+
+}
+.content a{
+  text-decoration: none;
+}
+.content:hover{
+  
+}
+.tweet{
+ 
+background-color: #EAECF0;
+border: 1px solid #EAECF0;
+border-radius: 8px;
+font-size: 18px;
+font-weight: 500;
+width: 70%;
+align-items: center;
+justify-content: center;
+display: flex;
+padding: 24px 32px;
+margin: 30px auto;
+cursor: pointer;
+
+}
+.zuri-team{
+background-color: #EAECF0;
+border: 1px solid #EAECF0;
+border-radius: 8px;
+font-size: 18px;
+font-weight: 500;
+width: 70%;
+align-items: center;
+justify-content: center;
+display: flex;
+padding: 24px 32px;
+margin: 30px auto;
+cursor: pointer;
+}
+.zuri-books{
+  background-color: #EAECF0;
+border: 1px solid #EAECF0;
+border-radius: 8px;
+font-size: 18px;
+font-weight: 500;
+width: 70%;
+align-items: center;
+justify-content: center;
+display: flex;
+padding: 24px 32px;
+margin: 30px auto;
+}
+.python-books{
+  background-color: #EAECF0;
+  border: 1px solid #EAECF0;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 500;
+  width: 70%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 24px 32px;
+  margin: 30px auto;
+}
+.bg-check{
+  background-color: #EAECF0;
+border: 1px solid #EAECF0;
+border-radius: 8px;
+font-size: 18px;
+font-weight: 500;
+width: 70%;
+align-items: center;
+justify-content: center;
+display: flex;
+padding: 24px 32px;
+margin: 30px auto;
+}
+.design-books{
+  background-color: #EAECF0;
+border: 1px solid #EAECF0;
+border-radius: 8px;
+font-size: 18px;
+font-weight: 500;
+width: 70%;
+align-items: center;
+justify-content: center;
+display: flex;
+padding: 24px 32px;
+margin: 30px auto;
+}
+.icons{
+  margin-bottom: 100px;
+}
+
+.slack-ico{
+  margin-right: 30px;
+}
+.pages{
+  margin-bottom: 100px;
+  
+}
+.i4gzuri{
+text-align: left;
+
+
+
+}
+.line{
+  width: 90%;
+  opacity: 0.5;
+}
+.texts{
+  text-align: center;
+  
+   
+  }
+  .vecteezy{
+    text-align: right;
+    
+    }
+    @media(min-width:700px){
+      .texts{
+        margin-right: 250px;
+  margin-left: 250px;
+      }
+    }
+ @media(max-width:700px){
+  .pages{
+    display: block;
+    text-align: center;
+  }
+.i4gzuri,.texts, .vecteezy{
+  margin-bottom: 30px;
+}
+
+  
+ }   
